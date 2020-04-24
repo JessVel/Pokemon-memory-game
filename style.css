@@ -1,0 +1,12 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+
+}
+body{
+    background-image: url(images/background.jpg);
+  background-repeat: repeat;
+  
+}
